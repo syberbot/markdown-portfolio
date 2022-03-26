@@ -6,3 +6,4 @@ __This will also be bold__
 
 _You **can** combine them_
 _** Bold italic text **_
+_** Bold italic text **_
